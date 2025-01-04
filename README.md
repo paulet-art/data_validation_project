@@ -1,4 +1,4 @@
-#DATA VALIDATION PROJECT
+DATA VALIDATION PROJECT
 
 The scope of the project
 This project focuses on building a robust data validation system for data integrity.
@@ -34,8 +34,6 @@ Tools
 - Python
 
 - Pandas
-
-- SQLAlchemy
 
 - PostgreSQL
 
