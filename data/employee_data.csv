@@ -1,0 +1,101 @@
+id,name,age,salary,hire_date
+1,,34,112817.16,invalid-date
+2,Mark Hernandez,45,96688.25,2016-11-21
+3,Mario Fox,38,61834.09,2019-06-25
+4,Kari Lee,58,76006.91,2023-10-15
+5,Carol Riddle,51,52650.24,2016-05-16
+6,James Martin,61,12668.83,invalid-date
+7,Jennifer Sanchez,68,69765.62,2017-05-24
+8,Megan Baker,17,115767.37,2019-09-11
+9,Derek Jones,21,58092.47,2024-07-23
+10,Kristin Haas,35,28169.47,2018-05-05
+11,,67,68272.33,invalid-date
+12,Jason White,17,110502.49,2023-01-11
+13,Scott Turner,53,79367.88,2020-05-21
+14,Shannon Mason,36,112400.74,2022-10-13
+15,Jennifer Schmidt,25,78709.61,2021-09-09
+16,David Velez,23,36282.5,invalid-date
+17,Anna Russell,47,36515.75,2016-04-14
+18,William Arellano,61,-298.46,2021-01-24
+19,Mary Boone,43,48801.45,2021-11-30
+20,Gary Summers,67,39245.85,2023-11-21
+21,,51,55527.56,invalid-date
+22,Ms. Mariah Turner,43,59450.05,2017-07-08
+23,Cindy Nash,43,37869.04,2020-10-07
+24,Joshua Scott,55,58207.73,2016-06-09
+25,Abigail Arellano,45,59590.69,2015-10-24
+26,Brandon Greene,70,40215.53,invalid-date
+27,Stacey Smith,66,19320.59,2019-01-06
+28,Brandon Nelson,37,36369.91,2016-10-17
+29,Stephanie Hunt,28,75318.14,2023-02-21
+30,Theresa Cruz,50,108864.17,2022-10-03
+31,,59,100323.33,invalid-date
+32,Elaine Blackburn,27,33969.15,2022-06-21
+33,Michael Stephens,55,116467.91,2017-10-11
+34,Charles Clark,16,110544.42,2021-08-19
+35,Stacy Spencer,44,53575.12,2017-10-28
+36,Lydia Hayes,23,86203.02,invalid-date
+37,Mary Carr,34,109428.81,2016-08-07
+38,Amanda Weaver,23,-4031.28,2020-10-24
+39,Kevin Smith,23,44429.82,2018-06-08
+40,Tiffany White,34,58484.7,2020-04-18
+41,,62,48191.73,invalid-date
+42,Carl Bruce,47,101077.13,2015-08-06
+43,Madison Snow,16,42161.34,2018-05-31
+44,David Miranda,57,97398.93,2015-06-20
+45,Bridget Smith,24,92610.96,2023-02-04
+46,Henry Todd,24,65132.0,invalid-date
+47,Elizabeth Torres,51,6326.62,2018-12-22
+48,Charles Vazquez,25,12519.07,2020-11-20
+49,Joel Fox,18,108107.78,2024-03-18
+50,Jason Mclean,29,-1906.02,2018-06-30
+1,,58,30787.11,invalid-date
+52,Daniel Butler,19,52228.02,2016-02-20
+53,Cathy Anderson,32,31853.17,2020-01-10
+54,Jennifer Gonzalez,27,9830.81,2015-04-05
+55,James Eaton,46,79983.69,2022-12-31
+56,Timothy Brown,58,40894.15,invalid-date
+57,Julie Rivas,18,11148.82,2020-05-07
+58,Billy Henderson,26,49852.99,2018-06-14
+59,Stephanie Spencer,46,98737.15,2017-11-09
+60,Casey Lewis,40,67575.91,2018-01-22
+61,,70,-4206.44,invalid-date
+62,Danielle Obrien,26,9667.32,2024-06-05
+63,Marilyn Jones,46,95831.55,2019-09-22
+64,Christopher Rodriguez,43,6245.75,2019-09-14
+65,Terry Moran,16,48146.03,2015-07-10
+66,Alejandro Elliott,55,24591.44,invalid-date
+67,Adam Green,46,106305.01,2021-11-27
+68,Amy Grant,61,10748.46,2017-03-05
+69,Brian Jones,49,78061.53,2021-09-09
+70,Lindsay Rivera,70,46658.71,2020-10-31
+71,,61,100301.22,invalid-date
+72,Amanda Willis,42,106623.51,2024-09-24
+73,Paul Saunders,59,107330.06,2022-12-07
+74,Alison Jackson,24,54142.35,2020-03-27
+75,Jessica Steele,20,89852.51,2020-11-21
+76,Anthony Armstrong,30,59611.87,invalid-date
+77,Bryan Sanders,60,-1974.37,2021-06-01
+78,Mark Baird,21,47997.91,2019-10-29
+79,Margaret White,43,-1198.6,2022-02-08
+80,Tiffany Tate,27,71456.57,2016-08-21
+81,,67,55343.36,invalid-date
+82,Alexis Bryant,39,25109.77,2015-01-25
+83,Kristopher Smith,36,37100.25,2022-06-16
+84,Megan Douglas,52,79015.47,2016-12-30
+85,Kayla Burns,52,79964.24,2016-04-27
+86,Debra Scott,22,94122.79,invalid-date
+87,Andrew Hunter,51,66400.52,2024-08-26
+88,Cindy Bernard,62,40755.52,2022-10-30
+89,Matthew Gibson,27,63217.88,2016-03-21
+90,Randy Jackson,31,88580.21,2024-10-30
+91,,42,6511.48,invalid-date
+92,Lisa Blair,63,25634.61,2018-08-01
+93,Olivia Herrera,28,83579.96,2021-06-15
+94,Joseph Patton,45,110746.24,2015-11-04
+95,Mrs. Kristin King,59,84287.59,2016-06-12
+96,Michelle Martin,68,117453.66,invalid-date
+97,Jonathan Brown,20,80263.96,2020-01-11
+98,Rebecca Sullivan,54,66356.28,2022-01-28
+99,Daniel Cameron,65,26909.29,2022-12-15
+100,Taylor Fuller,27,21950.53,2022-04-14
