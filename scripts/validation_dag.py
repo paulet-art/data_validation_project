@@ -31,4 +31,26 @@ with DAG (
 
         validation_results = validate_data(df)
 
-        kwargs["ti"].xcom_push(key="validation_results", value=validation)
+        kwargs["ti"].xcom_push(key="validation_results", value=validation_results)
+
+    def generate_report_task(**kwargs):
+        validation_results = kwargs["ti"].xcom_pull(
+            task_ids="validate_data_task", key="validation_results"
+        )
+        report_path = "/home/paulet/Documents/data_validation_project/reports"
+
+        generate_report(validation_results, report_path)
+
+    load_data_task = PythonOperator(
+        task_id="load_data", python_callable=load_data, provide_context=True
+    )
+
+    load_data_task >> validate_data_task >> generate_report_task
+
+    validate_data_task = PythonOperator(
+        task_id="validate_data_task", python_callable=validate_data_task, provide_contxt=True
+    )
+
+    generate_report = PythonOperator(
+        task_id="generate_report_task", python_callable=generate_report, provide_context=True
+    )
