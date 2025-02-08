@@ -50,4 +50,4 @@ Success Factors
 
 - Dag Ran succesfully
 
-  !(https://github.com/paulet-art/data_validation_project/blob/main/dag_success_pictures/Screenshot%202025-01-08%20at%2021-40-51%20data_validation_dag%20-%20Grid%20-%20Airflow.png)
+  ![ALT](https://github.com/paulet-art/data_validation_project/blob/main/dag_success_pictures/Screenshot%202025-01-08%20at%2021-40-51%20data_validation_dag%20-%20Grid%20-%20Airflow.png)
